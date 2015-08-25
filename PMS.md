@@ -32,10 +32,6 @@ Git
 
 ## 创建HiBench版本本地分支
 
-- 切换版本
-
-        git checkout HiBench-4.0
-
 - 查看远程分支
 
         git branch -a
